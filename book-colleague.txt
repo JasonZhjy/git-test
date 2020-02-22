@@ -1,2 +1,3 @@
 rabbitMq
 2
+mysql
